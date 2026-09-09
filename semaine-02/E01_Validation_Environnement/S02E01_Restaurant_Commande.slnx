@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="S02E01_Restaurant_Commande.Tests/S02E01_Restaurant_Commande.Tests.csproj" />
+  <Project Path="S02E01_Restaurant_Commande/S02E01_Restaurant_Commande.csproj" />
+</Solution>
