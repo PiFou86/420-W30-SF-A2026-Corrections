@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="S04E01E03_Restaurant_Qualite/S04E01E03_Restaurant_Qualite.csproj" />
+  <Project Path="S04E01E03_Restaurant_Qualite.Terminal/S04E01E03_Restaurant_Qualite.Terminal.csproj" />
+  <Project Path="S04E01E03_Restaurant_Qualite.Tests/S04E01E03_Restaurant_Qualite.Tests.csproj" />
+</Solution>

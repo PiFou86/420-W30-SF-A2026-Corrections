@@ -1,8 +1,8 @@
 ﻿namespace S01E02_Revisions_Facture_Console
 {
-    internal class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Facture facture = new Facture();
             facture.AjouterLigne(new PlatCommande("Pizza calzone", 20.00m, 2));

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="S03E04_Restaurant_Composition.Domaine/S03E04_Restaurant_Composition.Domaine.csproj" />
+  <Project Path="S03E04_Restaurant_Composition.Application/S03E04_Restaurant_Composition.Application.csproj" />
+  <Project Path="S03E04_Restaurant_Composition.Infrastructure/S03E04_Restaurant_Composition.Infrastructure.csproj" />
+  <Project Path="S03E04_Restaurant_Composition.Terminal/S03E04_Restaurant_Composition.Terminal.csproj" />
+  <Project Path="S03E04_Restaurant_Composition.Tests/S03E04_Restaurant_Composition.Tests.csproj" />
+</Solution>

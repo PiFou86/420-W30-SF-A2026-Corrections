@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="S03E02E03_Restaurant_Notification/S03E02E03_Restaurant_Notification.csproj" />
+  <Project Path="S03E02E03_Restaurant_Notification.Terminal/S03E02E03_Restaurant_Notification.Terminal.csproj" />
+  <Project Path="S03E02E03_Restaurant_Notification.Tests/S03E02E03_Restaurant_Notification.Tests.csproj" />
+</Solution>

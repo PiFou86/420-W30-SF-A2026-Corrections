@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><RootNamespace>Restaurant.Qualite.Terminal</RootNamespace><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+    <ItemGroup><ProjectReference Include="../S04E01E03_Restaurant_Qualite/S04E01E03_Restaurant_Qualite.csproj" /></ItemGroup>
+</Project>
